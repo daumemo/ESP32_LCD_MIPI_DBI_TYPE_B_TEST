@@ -7,4 +7,4 @@ There are two files: Arduino-basic.cpp and ESP32-specific.cpp
 Arduino-basic.cpp should work on any Arduino based MCU, but it is quite slow.
 ESP32-specific uses ESP32 register to write data directly to the IO register. This code should work only on ESP32, but it is faster solution.
 
-More information, how and where I have used these code snippets here:
+More information, how and where I have used these code snippets: https://daumemo.com/ips-capacitive-lcd-on-an-esp32-diy-generator-part-8/
